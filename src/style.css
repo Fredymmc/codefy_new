@@ -54,7 +54,7 @@ body{
 header{
     background-color: var(--light);
     width: 100%;
-    background-image: url("./img/header_bg.png");
+    background-image: url("./assets/images/header_bg.png");
     background-position: right top; /* Center the image */
     background-repeat: no-repeat;
     background-size: 50%;
@@ -283,7 +283,7 @@ h3{
 
 
 .services_section{
-    background-image: url("./img/bg_section1.jpg");
+    background-image: url("./assets/images/bg_section1.jpg");
     background-position: top; /* Center the image */
     background-repeat: no-repeat;
     background-size: cover;
@@ -374,7 +374,7 @@ h3{
 
 
 .action_section{
-    background-image: url("./img/fondo_accion.jpg");
+    background-image: url("./assets/images/fondo_accion.jpg");
     background-position: top; /* Center the image */
     background-repeat: no-repeat;
     background-size: cover;
